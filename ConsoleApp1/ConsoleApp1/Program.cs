@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("First USER comit");
+            Console.WriteLine("Modified main method");
         }
     }
 }
